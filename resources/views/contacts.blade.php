@@ -36,7 +36,7 @@
           <label for="message" class="form-label">Сообщение</label>
           <textarea name="message" class="form-control" id="message" rows="3"></textarea>
         </div>
-        <button type="submit" class="btn btn-secondary" style="background-color: #929497;"
+        <button class="btn btn-secondary" style="background-color: #929497;"
         class="g-recaptcha" 
         data-sitekey="6LccTo0dAAAAAFCaXr3tNXzv2y7o_CNe4A01bpT0" 
         data-callback='onSubmit' 
